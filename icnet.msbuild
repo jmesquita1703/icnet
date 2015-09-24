@@ -28,7 +28,7 @@
     <PropertyGroup>
       <TestRunnerCommand>"$(TestRunnerExePath)" @(TestAssemblies->'"%(FullPath)"', ' ') /Logger:trx"</TestRunnerCommand>
     </PropertyGroup>
-    <Exec Command="$(TestRunnerCommand)" />
+    
     
   </Target>
 </Project>

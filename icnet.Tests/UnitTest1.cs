@@ -9,6 +9,7 @@ namespace icnet.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            return null;
         }
     }
 }
