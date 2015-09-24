@@ -15,3 +15,4 @@ C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet\bin\Sys
 C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet\bin\System.Web.Mvc.xml
 C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet\obj\Debug\icnet.dll
 C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet\obj\Debug\icnet.pdb
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet\obj\Debug\icnet.csprojResolveAssemblyReference.cache
