@@ -1,0 +1,17 @@
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\icnet.Tests.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\icnet.Tests.pdb
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\icnet.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\icnet.pdb
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\obj\Debug\icnet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\obj\Debug\icnet.Tests.dll
+C:\Users\jose.mesquita\Documents\Visual Studio 2013\Projects\icnet\icnet.Tests\obj\Debug\icnet.Tests.pdb
